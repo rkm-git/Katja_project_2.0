@@ -1,0 +1,38 @@
+state,godad_locations_P096572,godad_unique_lgas,aiddata_locations,aiddata_unique_lgas,aiddata_has_lga_level,lgas_in_both,lgas_godad_only,lgas_aiddata_only,agreement_note
+abia,12,11,15,15,yes,11,0,4,Strong LGA overlap.
+adamawa,2,2,1,0,no (state only),0,2,0,GODAD has LGA points; AidData only state-level.
+akwa ibom,18,18,20,20,yes,18,0,2,Strong LGA overlap.
+anambra,19,14,20,19,yes,14,0,5,Strong LGA overlap.
+bauchi,2,2,1,0,no (state only),0,2,0,GODAD has LGA points; AidData only state-level.
+bayelsa,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+benue,16,15,19,19,yes,15,0,4,Strong LGA overlap.
+borno,1,1,0,0,none,0,1,0,GODAD has Maiduguri; AidData has NO Borno row. ICR includes Borno (and AF-II NE states). Sample gap in AidData.
+cross river,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+delta,3,3,3,3,yes,2,1,1,Partial LGA overlap; residuals mostly naming/town-vs-LGA.
+ebonyi,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+edo,1,1,1,1,yes,0,1,1,Little/no LGA overlap or state-only samples.
+ekiti,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+enugu,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+federal capital territory,1,1,2,1,yes,0,1,1,Little/no LGA overlap or state-only samples.
+gombe,2,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+imo,4,4,4,4,yes,1,3,3,Partial LGA overlap; residuals mostly naming/town-vs-LGA.
+jigawa,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+kaduna,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+kano,20,19,21,21,yes,18,1,3,Strong LGA overlap.
+katsina,20,20,20,20,yes,20,0,0,Strong LGA overlap.
+kebbi,2,2,1,0,no (state only),0,2,0,GODAD has LGA points; AidData only state-level.
+kogi,6,6,6,6,yes,4,2,2,Partial LGA overlap; residuals mostly naming/town-vs-LGA.
+kwara,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+lagos,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+nasarawa,0,0,1,0,no (state only),0,0,0,GODAD ZERO sites; AidData state-only. PAD: Nasarawa in 19 new states; ICR national. Sample gap.
+niger,11,10,10,10,yes,8,2,2,Strong LGA overlap.
+ogun,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+ondo,1,1,1,0,no (state only),0,1,0,GODAD has LGA points; AidData only state-level.
+osun,16,15,17,17,yes,14,1,3,Strong LGA overlap.
+oyo,10,10,10,10,yes,7,3,3,Strong LGA overlap.
+plateau,2,2,1,0,no (state only),0,2,0,"GODAD 2 LGAs; AidData state-only. Sparse sample, not true site count."
+rivers,14,12,16,16,yes,11,1,5,Strong LGA overlap.
+sokoto,18,17,19,19,yes,16,1,3,Strong LGA overlap.
+taraba,3,3,1,0,no (state only),0,3,0,GODAD has LGA points; AidData only state-level.
+yobe,2,2,1,0,no (state only),0,2,0,GODAD has LGA points; AidData only state-level.
+zamfara,2,2,1,0,no (state only),0,2,0,GODAD has LGA points; AidData only state-level.
