@@ -1,0 +1,55 @@
+{
+  "total_rows": 248,
+  "by_category": {
+    "matched_both": 159,
+    "same_location_name_mismatch": 7,
+    "godad_only_aiddata_state_centroid": 28,
+    "aiddata_state_only_no_godad": 1,
+    "godad_af_p130788_state": 8,
+    "godad_only_unverified": 10,
+    "aiddata_only_unverified": 35
+  },
+  "by_confidence": {
+    "high": 159,
+    "moderate": 37,
+    "low": 45,
+    "moderate-high": 7
+  },
+  "name_mismatch_pairs": [
+    {
+      "godad": "oyo|atisbo",
+      "aiddata": "oyo|tede",
+      "km": 0.0
+    },
+    {
+      "godad": "kogi|igalamela odolu",
+      "aiddata": "kogi|idah",
+      "km": 4.41
+    },
+    {
+      "godad": "imo|mbaitoli",
+      "aiddata": "imo|ihitte ogwa",
+      "km": 0.0
+    },
+    {
+      "godad": "sokoto|illela",
+      "aiddata": "sokoto|gada",
+      "km": 0.8
+    },
+    {
+      "godad": "osun|ife north",
+      "aiddata": "osun|ife central",
+      "km": 0.0
+    },
+    {
+      "godad": "imo|orlu",
+      "aiddata": "imo|nkwerre",
+      "km": 0.7
+    },
+    {
+      "godad": "delta|isoko north",
+      "aiddata": "delta|okpe",
+      "km": 0.0
+    }
+  ]
+}
