@@ -26,7 +26,7 @@ The World Bank ICR reports Fadama III in **all 36 states + FCT** and about **685
 | `match_category` | Rule | `confidence` | `notes` |
 |------------------|------|--------------|---------|
 | `matched_both` | LGA name matched in both sources after normalization; one row; coordinates averaged | **high** | Not applicable. |
-| `same_location_name_mismatch` | Mutual nearest unmatched LGAs in the same state within **5 km**; one row; both names retained | **medium** | Same location by coordinates; names do not match. |
+| `same_location_name_mismatch` | Mutual nearest unmatched LGAs in the same state within **5 km**; one row; both names retained | **moderate-high** | Same location by coordinates; names do not match. |
 | `godad_only_aiddata_state_centroid` | GODAD LGA point where AidData has only a state centroid | **moderate** | One set does not fully confirm (no AidData LGA). |
 | `aiddata_state_only_no_godad` | AidData state centroid; GODAD absent (Nasarawa) | **moderate** | One set only; not LGA-confirmed. |
 | `godad_af_p130788_state` | Additional Financing state-level GODAD points | **moderate** | AF state marker; not AidData-cross-checked here. |
@@ -35,7 +35,7 @@ The World Bank ICR reports Fadama III in **all 36 states + FCT** and about **685
 ### Confidence scale
 
 - **high** — both sources agree on LGA identity  
-- **medium** — coordinates strongly agree (&lt;5 km) but names differ  
+- **moderate-high** — coordinates strongly agree (&lt;5 km) but names differ  
 - **moderate** — single-source LGA or state-level only; other source does not fully confirm  
 - **low** — one source only, no reasonable coordinate match  
 
@@ -53,7 +53,7 @@ The World Bank ICR reports Fadama III in **all 36 states + FCT** and about **685
 |--------|-------------|
 | `master_id` | Stable id (`F3-####`) |
 | `match_category` | Classification above |
-| `confidence` | high / medium / moderate / low |
+| `confidence` | high / moderate-high / moderate / low |
 | `state`, `lga`, `lga_alternate` | Primary LGA (GODAD when available); alternate = AidData name when different |
 | `place_name_aiddata` | AidData registry place name(s) |
 | `latitude`, `longitude` | Preferred analysis coordinates (average when both sources present) |

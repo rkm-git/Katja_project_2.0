@@ -11,9 +11,9 @@
   },
   "by_confidence": {
     "high": 159,
-    "medium": 7,
     "moderate": 37,
-    "low": 45
+    "low": 45,
+    "moderate-high": 7
   },
   "name_mismatch_pairs": [
     {
