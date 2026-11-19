@@ -8,7 +8,10 @@ Cross-references GODAD Fadama III geocodes (`P096572` / `P130788`) with AidData 
 
 ## Outputs
 
-- `output/FadamaIII_Task1_location_crosscheck.xlsx` — main deliverable (state summary, LGA comparison, precision notes, document log, findings)
+- `output/FadamaIII_master_locations.csv` — **master location set** (deduplicated; confidence + notes)
+- `output/FadamaIII_master_locations.xlsx` — same data with README sheet
+- `output/MASTER_LOCATIONS_README.md` — documentation for the master set
+- `output/FadamaIII_Task1_location_crosscheck.xlsx` — Task 1 cross-check workbook
 - `output/state_comparison.csv`, `output/stats.json` — machine-readable summaries
 - `compare_godad_aiddata.py` — reproducible comparison script
 
